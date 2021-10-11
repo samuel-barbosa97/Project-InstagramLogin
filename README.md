@@ -1,4 +1,13 @@
-# Instagram-Login
-Após entrar no conceito básico de HTML e CSS, foi capaz de realizar a recriação de uma página de login do Instagram, dando um suave toque de diferença dos demais, mas com o mesmo propósito.
+# Instagram Login Clone 📱
 
-![Recriando](https://user-images.githubusercontent.com/89155684/130523964-c8b6c63f-b665-45e4-923d-d4d5e7d5667e.jpg)
+Reprodução da tela de Login da rede social Instagram.
+
+Utilizando HTML e CSS, foram reproduzidos com conceitos mais introdutórios de desenvolvimento web.
+
+![inst](https://user-images.githubusercontent.com/89155684/136718410-c6afbe4c-cbe0-4857-8815-99c9a4153921.png)
+
+Este projeto faz parte de uma das trilhas de desenvolvimento web da Digital Innovation One.
+
+▶ https://digitalinnovation.one/
+
+![7](https://user-images.githubusercontent.com/89155684/136718400-fc654012-2aed-4e1a-8399-b44da78a86a4.png)
