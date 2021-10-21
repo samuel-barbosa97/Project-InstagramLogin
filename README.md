@@ -10,9 +10,8 @@
 
 ## 🚀 Tecnologias
 
-- 💡 TypeScript
-- ⚡ NodeJs 
-- 💾 MongoDB
+- 💡 HTML
+- ⚡ CSS 
 
 ## ✋🏻 Pré-requisitos
 
