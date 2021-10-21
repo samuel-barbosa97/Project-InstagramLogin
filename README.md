@@ -1,13 +1,23 @@
-# Instagram Login Clone 📱
+<h1 align="center">
+  <img alt="DIO" src="https://hermes.digitalinnovation.one/site/images/logo-white.png" width="120px" />
+</h1>
 
-Reprodução da tela de Login da rede social Instagram.
+<h3 align="center">
+  Página inicial de login do Instagram
+</h3>
 
-Utilizando HTML e CSS, foram reproduzidos com conceitos mais introdutórios de desenvolvimento web.
+<p align="center">Neste projeto foi elaborado a reconstrução da página de login do Instagram. Fazendo o uso de CSS com Flexbox, uma das abordagens de posicionamento de elementos mais utilizadas quando se trata de responsividade. </p>
 
-![inst](https://user-images.githubusercontent.com/89155684/136718410-c6afbe4c-cbe0-4857-8815-99c9a4153921.png)
+## 🚀 Tecnologias
 
-Este projeto faz parte de uma das trilhas de desenvolvimento web da Digital Innovation One.
+- 💡 TypeScript
+- ⚡ NodeJs 
+- 💾 MongoDB
 
-▶ https://digitalinnovation.one/
+## ✋🏻 Pré-requisitos
 
-![7](https://user-images.githubusercontent.com/89155684/136718400-fc654012-2aed-4e1a-8399-b44da78a86a4.png)
+- [Visual Studio Code](https://code.visualstudio.com/)
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
